@@ -1,0 +1,18 @@
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\bin\Debug\BT_Calculator.exe
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\bin\Debug\BT_Calculator.pdb
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.Form1.resources
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.exe
+D:\Visual Studio 2010\Projects\BT_Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.pdb
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.exe
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.pdb
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.Form1.resources
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\obj\x86\Debug\BT_Calculator.Properties.Resources.resources
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\bin\Debug\BT_Calculator.exe
+C:\Users\Admin\Desktop\Calculator\BT_Calculator\bin\Debug\BT_Calculator.pdb

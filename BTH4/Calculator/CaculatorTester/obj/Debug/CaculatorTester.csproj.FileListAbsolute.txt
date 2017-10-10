@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Calculator\CaculatorTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Calculator\CaculatorTester\bin\Debug\CaculatorTester.dll
+C:\Users\Admin\Desktop\Calculator\CaculatorTester\bin\Debug\CaculatorTester.pdb
+C:\Users\Admin\Desktop\Calculator\CaculatorTester\bin\Debug\BT_Calculator.exe
+C:\Users\Admin\Desktop\Calculator\CaculatorTester\bin\Debug\BT_Calculator.pdb
+C:\Users\Admin\Desktop\Calculator\CaculatorTester\obj\Debug\CaculatorTester.dll
+C:\Users\Admin\Desktop\Calculator\CaculatorTester\obj\Debug\CaculatorTester.pdb

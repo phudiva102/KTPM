@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f6c15e6d-fafb-4235-a2e3-f59b1e6b56e4" name="Admin@D03 2017-10-10 14:19:59" runUser="D03\Admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="9d566280-59a1-456b-b459-cf21d28accde">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Admin_D03 2017-10-10 14_19_59">
+      <DeploymentItem filename="C:\Users\Admin\Desktop\Calculator\BT_Calculator\bin\Debug\BT_Calculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-10-10T14:19:59.9051237+07:00" queuing="2017-10-10T14:19:59.9241247+07:00" start="2017-10-10T14:19:59.9321252+07:00" finish="2017-10-10T14:20:00.1651385+07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestChia" storage="c:\users\admin\desktop\calculator\caculatortester\bin\debug\caculatortester.dll" id="89d338e0-c8b9-ae58-ac11-b6dab34e8204">
+      <Execution id="f2b279f5-b322-4d9e-9bad-a6f8c9a6074f" />
+      <TestMethod codeBase="C:/Users/Admin/Desktop/Calculator/CaculatorTester/bin/Debug/CaculatorTester.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CaculatorTester.UnitTest1, CaculatorTester, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestChia" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="89d338e0-c8b9-ae58-ac11-b6dab34e8204" executionId="f2b279f5-b322-4d9e-9bad-a6f8c9a6074f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f2b279f5-b322-4d9e-9bad-a6f8c9a6074f" testId="89d338e0-c8b9-ae58-ac11-b6dab34e8204" testName="TestChia" computerName="D03" duration="00:00:00.0224059" startTime="2017-10-10T14:19:59.9591267+07:00" endTime="2017-10-10T14:20:00.1481376+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2b279f5-b322-4d9e-9bad-a6f8c9a6074f">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1&gt;. Actual:&lt;0.83&gt;. </Message>
+          <StackTrace>   at CaculatorTester.UnitTest1.TestChia() in C:\Users\Admin\Desktop\Calculator\CaculatorTester\UnitTest1.cs:line 36
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
